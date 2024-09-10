@@ -34,9 +34,5 @@ This project monitors the Ethereum blockchain for transactions involving the Bea
   ```bash
      Open the eth_deposit_tracker.py file in a text editor.
       Replace the placeholder values with your actual Alchemy API URL and the Beacon Deposit Contract address.
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/eth-deposit-tracker.git
-   cd eth-deposit-tracker
- 
+
 
