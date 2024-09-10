@@ -35,8 +35,8 @@ This project monitors the Ethereum blockchain for transactions involving the Bea
      Open the eth_deposit_tracker.py file in a text editor.
       Replace the placeholder values with your actual Alchemy API URL and the Beacon Deposit Contract address.
 
-5.**Run the script:**
+5. **Run the script:**
  ```bash
-   python eth_deposit_tracker.py
+     python eth_deposit_tracker.py
 
 
