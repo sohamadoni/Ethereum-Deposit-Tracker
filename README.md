@@ -27,7 +27,7 @@ This project monitors the Ethereum blockchain for transactions involving the Bea
    ```python -m venv eth_tracker_env
    source eth_tracker_env/bin/activate  # On Windows use `eth_tracker_env\Scripts\activate
 3. **Install required libraries**
-   ```pip install web3
+   ``` pip install web3
 4. **Update the script:**
   ``` Open the eth_deposit_tracker.py file in a text editor.
    Replace the placeholder values with your actual Alchemy API URL and the Beacon Deposit Contract address.
